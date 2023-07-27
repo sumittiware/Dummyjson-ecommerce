@@ -3,6 +3,8 @@
 
 ## App Demo
 https://github.com/sumittiware/Dummyjson-ecommerce/assets/64718675/b9f5f655-0b8a-4277-a369-2529e4e0872b
+
+
 [Alternate Link](https://youtube.com/shorts/qdbJSLNM7DY?feature=share)
 
 ## Dependencies
