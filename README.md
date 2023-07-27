@@ -4,12 +4,12 @@
 ## App Demo
 
 ## Dependencies
-  carousel_slider: ^4.2.1
-  flutter_rating_bar: ^4.0.1
-  go_router: ^6.5.7
-  http: ^1.1.0
-  json_serializable: ^6.7.1
-  provider: ^6.0.5
+  - carousel_slider: ^4.2.1
+  - flutter_rating_bar: ^4.0.1
+  - go_router: ^6.5.7
+  - http: ^1.1.0
+  - json_serializable: ^6.7.1
+  - provider: ^6.0.5
 
 ## Project Setup
 - Clone the Git repository to your machine.
