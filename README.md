@@ -14,8 +14,10 @@
 ## Project Setup
 - Clone the Git repository to your machine.
 - Install all the dependencies with the following command
+  
       flutter pub get
 - Run the project with following command
+
       flutter run
 
 ## Getting Started
