@@ -2,6 +2,7 @@
 ## Flutter app with [Dummy Json api](https://dummyjson.com/)
 
 ## App Demo
+https://github.com/sumittiware/Dummyjson-ecommerce/assets/64718675/b9f5f655-0b8a-4277-a369-2529e4e0872b
 
 ## Dependencies
   - carousel_slider: ^4.2.1
